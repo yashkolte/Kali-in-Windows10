@@ -1,0 +1,20 @@
+ ##-------------------------------------------------- The kali linux in Windows 10 ---------------------------------------------##
+ INSTALL GUI
+
+⚙️ sudo apt update && sudo apt upgrade -y
+
+⚙️ sudo apt install kali-desktop-xfce -y
+
+XRDP
+
+⚙️ sudo apt install xrdp -y
+
+⚙️ sudo service xrdp start
+
+⚙️ ip address
+& Copy the ip address
+
+# Open Remote Desktop Connection app and paste the link
+# write the credential and the process is complete.
+
+The kali linux in Windows 10
